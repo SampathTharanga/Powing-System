@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Powing_System.customer">
+    <Position X="1" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAABCAAAgAAIAACABQAQAEAAAgAAAAAAAAAAY=</HashCode>
+      <FileName>customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powing_System.Officer">
+    <Position X="5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIAAAAAAAAAACAAAAAAAAAAFAAAAgAAAAA=</HashCode>
+      <FileName>bank_officer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powing_System.Jewellery">
+    <Position X="1" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAEAAAAAAAAQASAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Jewellery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powing_System.carat">
+    <Position X="5.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAEAAAAAAAIgAAAAAEA=</HashCode>
+      <FileName>pown.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powing_System.Insterest">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgAAAAAAEAAAAAAAAAAAAAAAICABAAAAAAAAAAA=</HashCode>
+      <FileName>Insterest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

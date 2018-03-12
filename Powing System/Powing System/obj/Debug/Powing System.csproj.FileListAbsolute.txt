@@ -1,0 +1,148 @@
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\Powing System.exe.config
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\Powing System.exe
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\Powing System.pdb
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\stdole.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing System.csprojResolveAssemblyReference.cache
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_PrintingInvoice.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_jewelleryTypeUp.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_TypeOfJewellery.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_splashscreen.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_EditOfficer.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_editInsterest.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_editCarat.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frmMain.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_Login.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.Properties.Resources.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.ucCustomer.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.ucViewCustomer.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.ucPowingDetails.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.ucPowingOfficer.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.ucViewPowingOfficer.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.ucBackupRestore.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.ucReport.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing System.csproj.GenerateResource.Cache
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing System.exe
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing System.pdb
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_EditCusDetails.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\obj\Debug\Powing_System.frm_ViewCustomer.resources
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Sampath\Documents\Visual Studio 2015\Projects\Powing System\Powing System\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\Powing System.exe.config
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing System.exe
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing System.pdb
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\Powing System.exe
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\Powing System.pdb
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.Shared.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\stdole.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing System.csprojResolveAssemblyReference.cache
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_EditCusDetails.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_ViewCustomer.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_PrintingInvoice.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_jewelleryTypeUp.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_TypeOfJewellery.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_splashscreen.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_EditOfficer.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_editInsterest.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_editCarat.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frmMain.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.frm_Login.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.Properties.Resources.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.ucCustomer.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.ucViewCustomer.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.ucPowingDetails.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.ucPowingOfficer.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.ucViewPowingOfficer.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.ucBackupRestore.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing_System.ucReport.resources
+D:\University\2 Year\Semester I\COM 2306 Visual Programming\Project\Powing System\Powing System\obj\Debug\Powing System.csproj.GenerateResource.Cache
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\Powing System.exe.config
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\Powing System.exe
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\Powing System.pdb
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\bin\Debug\stdole.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing System.csprojResolveAssemblyReference.cache
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_EditCusDetails.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_ViewCustomer.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_PrintingInvoice.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_jewelleryTypeUp.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_TypeOfJewellery.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_splashscreen.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_EditOfficer.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_editInsterest.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_editCarat.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frmMain.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.frm_Login.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.Properties.Resources.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.ucCustomer.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.ucViewCustomer.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.ucPowingDetails.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.ucPowingOfficer.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.ucViewPowingOfficer.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.ucBackupRestore.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing_System.ucReport.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing System.csproj.GenerateResource.Cache
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing System.csproj.CoreCompileInputs.cache
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing System.exe
+E:\Enjoy my Lfie\My Kindom\Software Development\for git\Powing System\Powing System\obj\Debug\Powing System.pdb
